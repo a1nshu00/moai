@@ -1,5 +1,6 @@
 
-# moai
+# moai 
+:This is amazing site 
 :moyai: Pharmaceutical competitive intelligence through product website FDA OPDP update frequency.
 
 ![Moai](moai.jpg)
@@ -16,10 +17,10 @@ Additionally, the following the metrics are captured:
 * :man: DMD Audience Identity Manager (AIM) identifies healthcare professionals
 * :trophy: [MozRank](https://moz.com/learn/seo/mozrank) quantifies link popularity and is Moz’s version of Google’s classic PageRank algorithm
 * :link: Moz total number of links (juice-passing or not, internal or external) of the final redirected url (http://drug.com > https://www.drug.com)
-* :iphone: Google PageSpeed Insights mobile speed score
-* :wheelchair: Google PageSpeed Insights mobile usability score
-* :computer: Google PageSpeed Insights desktop speed score
-* **server**: The HTTP server header provides insight into infrastructure changes
+* :iphone: Google PageSpeed Insights mobile speed score.
+* :wheelchair: Google PageSpeed Insights mobile usability score.
+* :computer: Google PageSpeed Insights desktop speed score.
+* **server**: The HTTP server header provides insight into infrastructure changes.
 * **ASN**: Autonomous System Number provides insight into data center moves
 
 Looking for a website and workflow management platform that delivers a competitive edge? Give [Catapult](https://github.com/devopsgroup-io/catapult) a *shot*.
